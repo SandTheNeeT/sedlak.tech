@@ -1,3 +1,3 @@
-## SndCrw WEB
+## SndCrw Web
 
-sndcrw.cz
+Landing page of gaming community sndcrw.cz
