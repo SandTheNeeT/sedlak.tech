@@ -1,3 +1,60 @@
-p {
-    font-family: "Comic Sans MS";
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker|Montserrat|Source+Code+Pro&display=swap');
+
+body {
+    margin: 0px;
+}
+
+div.nav {
+    width: 100%;
+    height: auto;
+    overflow: auto;
+    background-color: #cd422b;
+}
+
+div.navl {
+    float: left;
+    text-align: left;
+    padding-left: 20px;
+}
+
+div.navr {
+    float: right;
+    text-align: right;
+    padding-right: 20px;
+}
+
+table {
+    height: 63px;
+}
+
+th.navr {
+    font-family: Montserrat;
+    font-size: large;
+    color: lightgray;
+    text-align: center;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+th.navr:hover {
+    font-family: Montserrat;
+    font-size: large;
+    color: lightgray;
+    border-bottom: 1px solid lightgray;
+    text-align: center;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: #E16552;
+}
+
+p.navl {
+    font-family: Permanent Marker;
+    font-size: large;
+    color: lightgray;
+}
+
+p.navr {
+    font-family: Montserrat;
+    font-size: large;
+    color: lightgray;
 }

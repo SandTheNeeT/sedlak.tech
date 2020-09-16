@@ -2,7 +2,7 @@
 
 ?>
 
-<html>
+<html lang="cs">
     <head>
         <meta charset="UTF-8">
         <meta name="description" content="Landing Page">
@@ -15,7 +15,20 @@
     </head>
 
     <body>
-        <p>Hello World!</p>
+        <div class="nav">
+            <div class="navl">
+                <p class="navl">SNDCRW.cz</p>
+            </div>
+            <div class="navr">
+                <table>
+                    <tr>
+                        <th class="navr">Hello</th>
+                        <th class="navr">World</th>
+                        <th class="navr">!</th>
+                    </tr>
+                </table>
+            </div>
+        </div>
     </body>
 
 </html>
