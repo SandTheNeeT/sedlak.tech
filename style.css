@@ -2,6 +2,7 @@
 
 body {
     margin: 0px;
+    background-color: #171717;
 }
 
 div.nav {
@@ -15,6 +16,7 @@ div.navl {
     float: left;
     text-align: left;
     padding-left: 20px;
+    height: 63px;
 }
 
 div.navr {
@@ -29,32 +31,54 @@ table {
 
 th.navr {
     font-family: Montserrat;
-    font-size: large;
+    font-size: x-large;
     color: lightgray;
     text-align: center;
-    padding-left: 15px;
-    padding-right: 15px;
+    width: 59px;
 }
 
 th.navr:hover {
     font-family: Montserrat;
-    font-size: large;
+    font-size: xx-large;
     color: lightgray;
     border-bottom: 1px solid lightgray;
     text-align: center;
-    padding-left: 15px;
-    padding-right: 15px;
+    width: 59px;
+    background-color: #E16552;
+}
+
+th.navrActive {
+    font-family: Montserrat;
+    font-size: x-large;
+    color: lightgray;
+    border-bottom: 1px solid lightgray;
+    text-align: center;
+    width: 59px;
     background-color: #E16552;
 }
 
 p.navl {
     font-family: Permanent Marker;
-    font-size: large;
+    font-size: 40px;
     color: lightgray;
+    line-height: 62px;
+    height: 63px;
+    display: inline-block;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 
 p.navr {
     font-family: Montserrat;
     font-size: large;
     color: lightgray;
+}
+
+div.a {
+    width: 100%;
+}
+
+a:link, a:visited, a:hover, a:active {
+    text-decoration: none;
+    color: inherit;
 }

@@ -4,5 +4,8 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="free-v4-shims" level="application" />
+    <orderEntry type="library" name="free-v4-font-face" level="application" />
+    <orderEntry type="library" name="free" level="application" />
   </component>
 </module>

@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a32ddea-f82f-4fe1-809b-be6f9b36c507" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/SndCrwWeb.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SndCrwWeb.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
@@ -79,6 +80,7 @@
       <workItem from="1600254307930" duration="1100000" />
       <workItem from="1600255429779" duration="134000" />
       <workItem from="1600255576902" duration="8272000" />
+      <workItem from="1600274061853" duration="4385000" />
     </task>
     <servers />
   </component>
@@ -129,9 +131,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="242" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600254344544" />
-    <state x="623" y="225" key="search.everywhere.popup" timestamp="1600259098696">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1600278012018">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600259098696" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600278012018" />
   </component>
 </project>
