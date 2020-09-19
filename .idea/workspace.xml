@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a32ddea-f82f-4fe1-809b-be6f9b36c507" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/favicon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
@@ -83,7 +82,7 @@
       <workItem from="1600274061853" duration="5480000" />
       <workItem from="1600322814995" duration="5117000" />
       <workItem from="1600418839084" duration="1705000" />
-      <workItem from="1600539759927" duration="277000" />
+      <workItem from="1600539759927" duration="6036000" />
     </task>
     <servers />
   </component>
@@ -110,9 +109,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="540" y="174" key="#CLI_Interpreters/0.0.1920.1040@0.0.1920.1040" timestamp="1600256503212" />
-    <state x="667" y="162" width="647" height="715" key="#PHP" timestamp="1600256680769">
+    <state x="667" y="162" width="647" height="715" key="#PHP" timestamp="1600541000301">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="667" y="162" key="#PHP/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600541000301" />
     <state x="667" y="162" width="647" height="715" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1600256680769" />
     <state x="643" y="153" key="#SSH_Configurations" timestamp="1600256211318">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -130,6 +130,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600255560777" />
+    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600544935960">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600544935960" />
     <state x="616" y="242" key="run.anything.popup" timestamp="1600254344544">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
