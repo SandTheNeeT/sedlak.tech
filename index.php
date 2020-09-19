@@ -20,6 +20,8 @@
     </head>
 
     <body>
+
+    <-- HEADER -->
         <div class="nav">
             <div class="navl">
                 <p class="navl">SNDCRW.cz</p>
@@ -37,11 +39,14 @@
             </div>
         </div>
 
+        <-- MAIN CONTENT -->
         <div class="mainContent">
             <p class="mainContentLogo">sndcrw.cz</p>
             <p class="mainContentHeader">Who we are?</p>
             <p class="mainContent">Since year 2016, we are small family-like czech gaming community who likes to play games together.<br>&nbsp;<br>We like to play games like League of Legends, Osu!, Minecraft, ETS2, Valorant and many more.<br>&nbsp;<br>Come on and join our servers!</p>
         </div>
+
+    <-- FOOTER -->
         <div class="footer">
             <p class="footerContent">Copyright &copy; 2020 &nbsp;|&nbsp; Coded with &hearts; by <a class="link" href="https://allmylinks.com/novakpetr2002" target="_blank">SandTheNeeT_</a> &nbsp;|&nbsp; Source code is available on <a class="link" href="https://github.com/SandTheNeeT/SndCrwWeb" target="_blank">GitHub</a></p>
         </div>
