@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css?family=Permanent+Marker|Montserrat|Source+Code+Pro&display=swap');
-
 body {
     margin: auto;
     background-color: #171717;
@@ -60,7 +58,7 @@ th.navrActive {
 }
 
 p.navl {
-    font-family: Permanent Marker;
+    font-family: PermanentMarker;
     font-size: 40px;
     color: #d3d3d3;
     line-height: 62px;
@@ -94,7 +92,7 @@ div.mainContent {
 }
 
 p.mainContentLogo {
-    font-family: Permanent Marker;
+    font-family: PermanentMarker;
     font-size: 150px;
     color: #d3d3d3;
     margin: 50px;

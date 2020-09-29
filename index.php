@@ -10,6 +10,7 @@
         <meta name="author" content="SandTheNeeT_">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+        <link rel="stylesheet" href="lib/css/fonts.css">
         <link rel="stylesheet" href="lib/css/style.css">
         <link rel="icon" type="image/png" href="lib/img/favicon.png">
         <link href="lib/fa/css/all.css" media="all" rel="stylesheet">

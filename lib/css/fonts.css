@@ -1,0 +1,197 @@
+/* FONT FAMILIES */
+
+/* Aller */
+@font-face {
+    font-family: AllerBold;
+    src: url("../fonts/Aller/Aller_Bd.ttf");
+}
+@font-face {
+    font-family: AllerBoldItalic;
+    src: url("../fonts/Aller/Aller_BdIt.ttf");
+}
+@font-face {
+    font-family: AllerItalic;
+    src: url("../fonts/Aller/Aller_It.ttf");
+}
+@font-face {
+    font-family: AllerLight;
+    src: url("../fonts/Aller/Aller_Lt.ttf");
+}
+@font-face {
+    font-family: AllerLightItalic;
+    src: url("../fonts/Aller/Aller_LtIt.ttf");
+}
+@font-face {
+    font-family: Aller;
+    src: url("../fonts/Aller/Aller_Rg.ttf");
+}
+@font-face {
+    font-family: AllerDisplay;
+    src: url("../fonts/Aller/AllerDisplay.ttf");
+}
+
+/* Montserrat */
+@font-face {
+    font-family: MontserratBlack;
+    src: url("../fonts/Montserrat/Montserrat-Black.ttf");
+}
+@font-face {
+    font-family: MontserraBlackItalict;
+    src: url("../fonts/Montserrat/Montserrat-BlackItalic.ttf");
+}
+@font-face {
+    font-family: MontserratBold;
+    src: url("../fonts/Montserrat/Montserrat-Bold.ttf");
+}
+@font-face {
+    font-family: MontserratBoldItalic;
+    src: url("../fonts/Montserrat/Montserrat-BoldItalic.ttf");
+}
+@font-face {
+    font-family: MontserratExtraBold;
+    src: url("../fonts/Montserrat/Montserrat-ExtraBold.ttf");
+}
+@font-face {
+    font-family: MontserratExtraBoldItalic;
+    src: url("../fonts/Montserrat/Montserrat-ExtraBoldItalic.ttf");
+}
+@font-face {
+    font-family: MontserratExtraLight;
+    src: url("../fonts/Montserrat/Montserrat-ExtraLight.ttf");
+}
+@font-face {
+    font-family: MontserratExtraLightItalic;
+    src: url("../fonts/Montserrat/Montserrat-ExtraLightItalic.ttf");
+}
+@font-face {
+    font-family: MontserratItalic;
+    src: url("../fonts/Montserrat/Montserrat-Italic.ttf");
+}
+@font-face {
+    font-family: MontserratLightItalic;
+    src: url("../fonts/Montserrat/Montserrat-LightItalic.ttf");
+}
+@font-face {
+    font-family: MontserratMedium;
+    src: url("../fonts/Montserrat/Montserrat-Medium.ttf");
+}
+@font-face {
+    font-family: MontserratMediumItalic;
+    src: url("../fonts/Montserrat/Montserrat-MediumItalic.ttf");
+}
+@font-face {
+    font-family: Montserrat;
+    src: url("../fonts/Montserrat/Montserrat-Regular.ttf");
+}
+@font-face {
+    font-family: MontserratSemiBold;
+    src: url("../fonts/Montserrat/Montserrat-SemiBold.ttf");
+}
+@font-face {
+    font-family: MontserratSemiBoldItalic;
+    src: url("../fonts/Montserrat/Montserrat-SemiBoldItalic.ttf");
+}
+@font-face {
+    font-family: MontserratThin;
+    src: url("../fonts/Montserrat/Montserrat-Thin.ttf");
+}
+@font-face {
+    font-family: MontserratThinItalic;
+    src: url("../fonts/Montserrat/Montserrat-ThinItalic.ttf");
+}
+
+/* Permanent Marker */
+@font-face {
+    font-family: PermanentMarker;
+    src: url("../fonts/PermanentMarker/PermanentMarker-Regular.ttf");
+}
+
+/* Source Code Pro */
+@font-face {
+    font-family: SCPBlack;
+    src: url("../fonts/SourceCodePro/SourceCodePro-Black.ttf");
+}
+@font-face {
+    font-family: SCPBlackItalic;
+    src: url("../fonts/SourceCodePro/SourceCodePro-BlackItalic.ttf");
+}
+@font-face {
+    font-family: SCPBold;
+    src: url("../fonts/SourceCodePro/SourceCodePro-Bold.ttf");
+}
+@font-face {
+    font-family: SCPBoldItalic;
+    src: url("../fonts/SourceCodePro/SourceCodePro-BoldItalic.ttf");
+}
+@font-face {
+    font-family: SCPExtraLight;
+    src: url("../fonts/SourceCodePro/SourceCodePro-ExtraLight.ttf");
+}
+@font-face {
+    font-family: SCPExtraLightItalic;
+    src: url("../fonts/SourceCodePro/SourceCodePro-ExtraLightItalic.ttf");
+}
+@font-face {
+    font-family: SCPItalic;
+    src: url("../fonts/SourceCodePro/SourceCodePro-Italic.ttf");
+}
+@font-face {
+    font-family: SCPLight;
+    src: url("../fonts/SourceCodePro/SourceCodePro-Light.ttf");
+}
+@font-face {
+    font-family: SCPLightItalic;
+    src: url("../fonts/SourceCodePro/SourceCodePro-LightItalic.ttf");
+}
+@font-face {
+    font-family: SCPMedium;
+    src: url("../fonts/SourceCodePro/SourceCodePro-Medium.ttf");
+}
+@font-face {
+    font-family: SCPMediumItalic;
+    src: url("../fonts/SourceCodePro/SourceCodePro-MediumItalic.ttf");
+}
+@font-face {
+    font-family: SCP;
+    src: url("../fonts/SourceCodePro/SourceCodePro-Regular.ttf");
+}
+@font-face {
+    font-family: SCPSemiBold;
+    src: url("../fonts/SourceCodePro/SourceCodePro-SemiBold.ttf");
+}
+@font-face {
+    font-family: SCPSemiBoldItalic;
+    src: url("../fonts/SourceCodePro/SourceCodePro-SemiBoldItalic.ttf");
+}
+
+/* Torus */
+@font-face {
+    font-family: TorusBold;
+    src: url("../fonts/Torus/Torus-Bold.otf");
+}
+@font-face {
+    font-family: TorusHeavy;
+    src: url("../fonts/Torus/Torus-Heavy.otf");
+}
+@font-face {
+    font-family: TorusLight;
+    src: url("../fonts/Torus/Torus-Light.otf");
+}
+@font-face {
+    font-family: Torus;
+    src: url("../fonts/Torus/Torus-Regular.otf");
+}
+@font-face {
+    font-family: TorusSemiBold;
+    src: url("../fonts/Torus/Torus-SemiBold.otf");
+}
+@font-face {
+    font-family: TorusThin;
+    src: url("../fonts/Torus/Torus-Thin.otf");
+}
+
+/* Vtks */
+@font-face {
+    font-family: Vtks;
+    src: url("../fonts/Vtks/VtksSideways.ttf");
+}
