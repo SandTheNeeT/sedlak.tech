@@ -10,11 +10,10 @@
         <meta name="author" content="SandTheNeeT_">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-        <link rel="stylesheet" href="style.css">
-        <link rel="icon" type="image/png" href="favicon.png">
-        <link href="https://kit-free.fontawesome.com/releases/latest/css/free-v4-shims.min.css" media="all" rel="stylesheet">
-        <link href="https://kit-free.fontawesome.com/releases/latest/css/free-v4-font-face.min.css" media="all" rel="stylesheet">
-        <link href="https://kit-free.fontawesome.com/releases/latest/css/free.min.css" media="all" rel="stylesheet">
+        <link rel="stylesheet" href="lib/css/style.css">
+        <link rel="icon" type="image/png" href="lib/img/favicon.png">
+        <link href="lib/fa/css/all.css" media="all" rel="stylesheet">
+        <script src="lib/js/jquery-3.5.1.min.js"></script>
 
         <title>sndcrw.cz</title>
     </head>
