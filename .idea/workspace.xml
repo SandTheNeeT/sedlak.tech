@@ -19,62 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a32ddea-f82f-4fe1-809b-be6f9b36c507" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/css/fonts.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fonts/Aller/AllerDisplay.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fonts/Aller/Aller_Bd.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fonts/Aller/Aller_BdIt.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fonts/Aller/Aller_It.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fonts/Aller/Aller_Lt.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fonts/Aller/Aller_LtIt.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fonts/Aller/Aller_Rg.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fonts/Montserrat/Montserrat-Black.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fonts/Montserrat/Montserrat-BlackItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fonts/Montserrat/Montserrat-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fonts/Montserrat/Montserrat-BoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fonts/Montserrat/Montserrat-ExtraBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fonts/Montserrat/Montserrat-ExtraBoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fonts/Montserrat/Montserrat-ExtraLight.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fonts/Montserrat/Montserrat-ExtraLightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fonts/Montserrat/Montserrat-Italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fonts/Montserrat/Montserrat-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fonts/Montserrat/Montserrat-LightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fonts/Montserrat/Montserrat-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fonts/Montserrat/Montserrat-MediumItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fonts/Montserrat/Montserrat-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fonts/Montserrat/Montserrat-SemiBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fonts/Montserrat/Montserrat-SemiBoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fonts/Montserrat/Montserrat-Thin.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fonts/Montserrat/Montserrat-ThinItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fonts/Montserrat/OFL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fonts/PermanentMarker/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fonts/PermanentMarker/PermanentMarker-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fonts/SourceCodePro/OFL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fonts/SourceCodePro/SourceCodePro-Black.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fonts/SourceCodePro/SourceCodePro-BlackItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fonts/SourceCodePro/SourceCodePro-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fonts/SourceCodePro/SourceCodePro-BoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fonts/SourceCodePro/SourceCodePro-ExtraLight.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fonts/SourceCodePro/SourceCodePro-ExtraLightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fonts/SourceCodePro/SourceCodePro-Italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fonts/SourceCodePro/SourceCodePro-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fonts/SourceCodePro/SourceCodePro-LightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fonts/SourceCodePro/SourceCodePro-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fonts/SourceCodePro/SourceCodePro-MediumItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fonts/SourceCodePro/SourceCodePro-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fonts/SourceCodePro/SourceCodePro-SemiBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fonts/SourceCodePro/SourceCodePro-SemiBoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fonts/Torus/Torus-Bold.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fonts/Torus/Torus-Heavy.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fonts/Torus/Torus-Light.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fonts/Torus/Torus-Regular.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fonts/Torus/Torus-SemiBold.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fonts/Torus/Torus-Thin.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fonts/Vtks/VtksSideways.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/css/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="5a32ddea-f82f-4fe1-809b-be6f9b36c507" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -156,7 +101,7 @@
       <workItem from="1601404195262" duration="194000" />
       <workItem from="1601407737473" duration="92000" />
       <workItem from="1601407851441" duration="168000" />
-      <workItem from="1601408042415" duration="5617000" />
+      <workItem from="1601408042415" duration="5899000" />
     </task>
     <servers />
   </component>
