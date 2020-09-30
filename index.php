@@ -23,7 +23,7 @@
 
     <body>
 
-    <!-- HEADER -->
+        <!-- HEADER -->
         <div class="nav">
             <div class="navl">
                 <p class="navl">SNDCRW.cz</p>
