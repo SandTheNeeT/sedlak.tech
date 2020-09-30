@@ -12,9 +12,11 @@
 
         <link rel="stylesheet" href="lib/css/fonts.css">
         <link rel="stylesheet" href="lib/css/style.css">
+        <link rel="stylesheet" href="lib/css/style2.css">
         <link rel="icon" type="image/png" href="lib/img/favicon.png">
         <link href="lib/fa/css/all.css" media="all" rel="stylesheet">
         <script src="lib/js/jquery-3.5.1.min.js"></script>
+        <script src="lib/js/wakenbake.js"></script>
 
         <title>sndcrw.cz</title>
     </head>
@@ -40,7 +42,7 @@
         </div>
 
         <!-- MAIN CONTENT -->
-        <div class="mainContent">
+        <div class="mainContent" data-fade="true">
             <p class="mainContentLogo">sndcrw.cz</p>
             <p class="mainContentHeader">Who we are?</p>
             <p class="mainContent">Since year 2016, we are small family-like czech gaming community who likes to play games together.<br>&nbsp;<br>We like to play games like League of Legends, Osu!, Minecraft, ETS2, Valorant and many more.<br>&nbsp;<br>Come on and join our servers!</p>
