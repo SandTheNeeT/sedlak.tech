@@ -14,7 +14,7 @@
         <link rel="stylesheet" href="lib/css/style.css">
         <link rel="stylesheet" href="lib/css/style2.css">
         <link rel="icon" type="image/png" href="lib/img/favicon.png">
-        
+
         <script src="https://kit.fontawesome.com/6de1200a92.js" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
         <script src="lib/js/wakenbake.js"></script>
