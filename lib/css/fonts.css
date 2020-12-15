@@ -195,3 +195,13 @@
     font-family: Vtks;
     src: url("../fonts/Vtks/VtksSideways.ttf");
 }
+
+/* Minecraft */
+@font-face {
+    font-family: MinecraftEnchant;
+    src: url("../fonts/Minecraft/minecraft-enchantment.ttf");
+}
+@font-face {
+    font-family: Minecraft;
+    src: url("../fonts/Minecraft/minecraft.ttf");
+}
