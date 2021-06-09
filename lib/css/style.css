@@ -30,7 +30,7 @@ table {
 }
 
 th.navr {
-    font-family: Montserrat;
+    font-family: TorusSemiBold;
     font-size: x-large;
     color: lightgray;
     text-align: center;
@@ -38,7 +38,7 @@ th.navr {
 }
 
 th.navr:hover {
-    font-family: Montserrat;
+    font-family: TorusSemiBold;
     font-size: x-large;
     color: lightgray;
     border-bottom: 1px solid lightgray;
@@ -48,7 +48,7 @@ th.navr:hover {
 }
 
 th.navrActive {
-    font-family: Montserrat;
+    font-family: TorusSemiBold;
     font-size: x-large;
     color: lightgray;
     border-bottom: 1px solid lightgray;
@@ -58,7 +58,7 @@ th.navrActive {
 }
 
 p.navl {
-    font-family: PermanentMarker;
+    font-family: TorusSemiBold;
     font-size: 40px;
     color: #d3d3d3;
     line-height: 62px;
@@ -69,7 +69,7 @@ p.navl {
 }
 
 p.navr {
-    font-family: Montserrat;
+    font-family: TorusSemiBold;
     font-size: large;
     color: #d3d3d3;
 }
@@ -92,7 +92,7 @@ div.mainContent {
 }
 
 p.mainContentLogo {
-    font-family: PermanentMarker;
+    font-family: TorusSemiBold;
     font-size: 150px;
     color: #d3d3d3;
     margin: 50px;
@@ -100,7 +100,7 @@ p.mainContentLogo {
 }
 
 p.mainContentHeader {
-    font-family: Montserrat;
+    font-family: TorusSemiBold;
     font-size: xx-large;
     color: #d3d3d3;
     margin: 30px;
@@ -108,7 +108,7 @@ p.mainContentHeader {
 }
 
 p.mainContent {
-    font-family: Montserrat;
+    font-family: TorusLight;
     font-size: x-large;
     color: #d3d3d3;
     margin: 20px;
@@ -118,7 +118,7 @@ p.mainContent {
 /* Footer */
 
 p.footerContent {
-    font-family: Montserrat;
+    font-family: TorusThin;
     font-size: large;
     color: #d3d3d3;
     margin: 10px;
