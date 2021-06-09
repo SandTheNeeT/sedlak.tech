@@ -51,7 +51,7 @@
 
         <!-- FOOTER -->
         <div class="footer">
-            <p class="footerContent">Copyright &copy; 2020 &nbsp;|&nbsp; Coded with &hearts; by <a class="link" href="https://allmylinks.com/novakpetr2002" target="_blank">SandTheNeeT_</a> &nbsp;|&nbsp; Source code is available on <a class="link" href="https://github.com/SandTheNeeT/SndCrwWeb" target="_blank">GitHub</a></p>
+            <p class="footerContent">Copyright &copy; <?php echo date("Y"); ?> &nbsp;|&nbsp; Coded with &hearts; by <a class="link" href="https://allmylinks.com/novakpetr2002" target="_blank">SandTheNeeT_</a> &nbsp;|&nbsp; Source code is available on <a class="link" href="https://github.com/SandTheNeeT/SndCrwWeb" target="_blank">GitHub</a></p>
         </div>
     </body>
 
