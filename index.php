@@ -27,7 +27,7 @@
         <!-- HEADER -->
         <div class="nav">
             <div class="navl">
-                <p class="navl">SNDCRW.cz</p>
+                <p class="navl">SandTheNeeT_</p>
             </div>
             <div class="navr">
                 <table>
@@ -44,14 +44,18 @@
 
         <!-- MAIN CONTENT -->
         <div class="mainContent" data-fade="true">
-            <p class="mainContentLogo">sndcrw.cz</p>
-            <p class="mainContentHeader">Who we are?</p>
-            <p class="mainContent">Since year 2016, we are small family-like czech gaming community who likes to play games together.<br>&nbsp;<br>We like to play games like League of Legends, Osu!, Minecraft, ETS2, Valorant and many more.<br>&nbsp;<br>Come on and join our servers!</p>
+            <p class="mainContentLogo">SandTheNeeT_</p>
+            <p class="mainContentHeader">Hello there!</p>
+            <p class="mainContent">
+                Hi, I'm Peter. I like a lot of stuff. Playing games, listening to music, and much much more<br>&nbsp;<br>
+                I'm currently staff leader at <a href="https://warfaremc.eu" target="_blank">WarfareMC.eu</a><br>&nbsp;<br>
+                Come and join our <a href="https://wrfmc.eu/discord">Discord</a>!
+            </p>
         </div>
 
         <!-- FOOTER -->
         <div class="footer">
-            <p class="footerContent">Copyright &copy; <?php echo date("Y"); ?> &nbsp;|&nbsp; Coded with &hearts; by <a class="link" href="https://allmylinks.com/novakpetr2002" target="_blank">SandTheNeeT_</a> &nbsp;|&nbsp; Source code is available on <a class="link" href="https://github.com/SandTheNeeT/SndCrwWeb" target="_blank">GitHub</a></p>
+            <p class="footerContent">Copyright &copy; <?php echo date("Y"); ?> &nbsp;|&nbsp; Coded with &hearts; by <!--a class="link" href="https://allmylinks.com/novakpetr2002" target="_blank"-->SandTheNeeT_<!--/a--> &nbsp;|&nbsp; Source code is available on <a class="link" href="https://github.com/SandTheNeeT/SndCrwWeb" target="_blank">GitHub</a></p>
         </div>
     </body>
 
