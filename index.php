@@ -23,39 +23,34 @@
     </head>
 
     <body>
+        <video autoplay muted loop id="bgVideo">
+        <source src="lib/img/bg.mp4" type="video/mp4">
+        </video>
 
-        <!-- HEADER -->
-        <!--div class="nav">
-            <div class="navl">
-                <p class="navl">SandTheNeeT_</p>
+        <div class="textbody">
+            <div class="text">
+                <p class="nazev">SandTheNeeT_</p>
+                <p class="nadpis">Welcome to my page!</p>&nbsp;<br>
+                <p class="obsah">
+                    Hey there, my name is SandTheNeeT_<br>
+                    I'm from Czech Republic. I like playing games, listening to music, and much much more.<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>
+                    I'm currently staff and tech leader at one of the largest <br> czechoslovak Minecrafr servers <a href="https://warfaremc.eu" target="_blank">WarfareMC.eu</a><br>&nbsp;<br>&nbsp;<br>
+                        <a href="https://wrfmc.eu/discord" target="_blank">Discord</a> |
+                        <a href="https://github.com/SandTheNeeT" target="_blank">GitHub</a> |
+                        <a href="https://www.youtube.com/channel/UCrTGyqv9XfeGEtEZy7DGRSQ" target="_blank">YouTube</a> |
+                        <a href="https://www.twitch.tv/sandtheneet" target="_blank">Twitch</a> |
+                        <a href="https://osu.ppy.sh/users/11742143Osu!" target="_blank">Osu!</a> |
+                        <a href="https://namemc.com/profile/SandTheNeeT_.1" target="_blank">NameMC</a> |
+                        <a href="https://www.instagram.com/sandtheneet_/" target="_blank">Instagram</a> |
+                        <a href="https://twitter.com/SandTheNeeT_" target="_blank">Twitter</a> |
+                        <a href="mailto:sandtheneet@warfaremc.eu">E-Mail</a>
+                </p>
             </div>
-            <div class="navr">
-                <table>
-                    <tr>
-                        <th class="navrActive"><a href="#"><i class="fas fa-home"></i></a></th>
-                        <th class="navr"><a href="https://discord.gg/QT3ugYH" target="_blank"><i class="fab fa-discord"></i></a></th>
-                        <th class="navr"><a href="ts3server://ts.sndcrw.cz"><i class="fab fa-teamspeak"></i></a></th>
-                        <th class="navr"><a href="https://sinus.sndcrw.cz/" target="_blank"><svg width="24px" height="24px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 200 200" style="enable-background:new 0 0 200 200;" xml:space="preserve"><style type="text/css">.lightgray{fill:#d3d3d3;}</style><g transform="translate(0.000000,200.000000) scale(0.100000,-0.100000)"><path class="lightgray" d="M880,1978c-41-6-77-12-79-14s4-13,13-23c28-31,88-181,156-386c122-371,177-470,246-444c51,18,92,106,202,429 c49,146,92,272,96,280c4,11-13,25-67,52c-127,64-184,83-319,103C1020,1992,990,1992,880,1978z"/><path class="lightgray" d="M574,1882c-211-103-398-315-473-539c-43-127-63-250-58-352c5-95,30-228,46-244c5-5,34,27,66,70 c126,173,262,431,324,618c83,248,134,390,158,438c13,26,22,47,20,47S618,1903,574,1882z"/><path class="lightgray" d="M1840,1264c-162-202-301-463-395-746c-85-256-112-334-136-380c-12-23-15-38-8-38c22,0,177,78,240,121 c80,54,195,169,250,250c155,229,206,542,131,808l-18,64L1840,1264z"/><path class="lightgray" d="M722,890c-50-21-108-150-217-480l-57-174l28-23c46-36,183-100,261-122c107-29,248-45,326-37c63,7,67,9,54,24 c-26,30-73,151-152,387c-88,264-142,384-184,414c-16,12-31,21-33,20C747,899,735,895,722,890z"/></g></svg></a></th>
-                        <th class="navr"><a href="https://amp.sndcrw.cz" target="_blank"><i class="fas fa-server"</i></a></th>
-                    </tr>
-                </table>
-            </div>
-        </div-->
-
-        <!-- MAIN CONTENT -->
-        <div class="mainContent" data-fade="true">
-            <p class="mainContentLogo">SandTheNeeT_</p>
-            <p class="mainContentHeader">Hello there!</p>
-            <p class="mainContent">
-                Hi, I'm Peter. I like a lot of stuff. Playing games, listening to music, and much much more<br>&nbsp;<br>
-                I'm currently staff leader at <a href="https://warfaremc.eu" target="_blank">WarfareMC.eu</a><br>&nbsp;<br>
-                Come and join our <a href="https://wrfmc.eu/discord">Discord</a>!
-            </p>
         </div>
 
         <!-- FOOTER -->
         <div class="footer">
-            <p class="footerContent">Copyright &copy; <?php echo date("Y"); ?> &nbsp;|&nbsp; Coded with &hearts; by <!--a class="link" href="https://allmylinks.com/novakpetr2002" target="_blank"-->SandTheNeeT_<!--/a--> &nbsp;|&nbsp; Source code is available on <a class="link" href="https://github.com/SandTheNeeT/SndCrwWeb" target="_blank">GitHub</a></p>
+            <p class="footertext">Copyright &copy; <?php echo date("Y"); ?> &nbsp;|&nbsp; Coded with &hearts; by <!--a class="link" href="https://allmylinks.com/novakpetr2002" target="_blank"-->SandTheNeeT_<!--/a--> &nbsp;|&nbsp; Source code is available on <a class="link" href="https://github.com/SandTheNeeT/SndCrwWeb" target="_blank">GitHub</a></p>
         </div>
     </body>
 

@@ -1,81 +1,16 @@
 body {
-    margin: auto;
-    background-color: #171717;
-}
-
-/* Navbar */
-
-div.nav {
+    margin: 0;
     width: 100%;
-    height: auto;
-    overflow: auto;
-    background-color: #cd422b;
+    height: 100%;
 }
 
-div.navl {
-    float: left;
-    text-align: left;
-    padding-left: 20px;
-    height: 63px;
-}
-
-div.navr {
-    float: right;
-    text-align: right;
-    padding-right: 20px;
-}
-
-table {
-    height: 63px;
-}
-
-th.navr {
-    font-family: TorusSemiBold;
-    font-size: x-large;
-    color: lightgray;
-    text-align: center;
-    width: 59px;
-}
-
-th.navr:hover {
-    font-family: TorusSemiBold;
-    font-size: x-large;
-    color: lightgray;
-    border-bottom: 1px solid lightgray;
-    text-align: center;
-    width: 59px;
-    background-color: #E16552;
-}
-
-th.navrActive {
-    font-family: TorusSemiBold;
-    font-size: x-large;
-    color: lightgray;
-    border-bottom: 1px solid lightgray;
-    text-align: center;
-    width: 59px;
-    background-color: #E16552;
-}
-
-p.navl {
-    font-family: TorusSemiBold;
-    font-size: 40px;
-    color: #d3d3d3;
-    line-height: 62px;
-    height: 63px;
-    display: inline-block;
-    margin-top: 0px;
-    margin-bottom: 0px;
-}
-
-p.navr {
-    font-family: TorusSemiBold;
-    font-size: large;
-    color: #d3d3d3;
-}
-
-div.a {
-    width: 100%;
+/* Video */
+#bgVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
 }
 
 a:link, a:visited, a:hover, a:active {
@@ -85,21 +20,29 @@ a:link, a:visited, a:hover, a:active {
 
 /* Content */
 
-div.mainContent {
-    width: 100%;
-    height: auto;
-    overflow: auto;
+div.text {
+
 }
 
-p.mainContentLogo {
+div.textbody {
+    position: fixed;
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 100%;
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+
+p.nazev {
     font-family: TorusSemiBold;
     font-size: 150px;
     color: #d3d3d3;
-    margin: 50px;
+    margin: 100px;
     text-align: center;
 }
 
-p.mainContentHeader {
+p.nadpis {
     font-family: TorusSemiBold;
     font-size: xx-large;
     color: #d3d3d3;
@@ -107,7 +50,7 @@ p.mainContentHeader {
     text-align: center;
 }
 
-p.mainContent {
+p.obsah {
     font-family: TorusLight;
     font-size: x-large;
     color: #d3d3d3;
@@ -117,7 +60,7 @@ p.mainContent {
 
 /* Footer */
 
-p.footerContent {
+p.footertext {
     font-family: TorusThin;
     font-size: large;
     color: #d3d3d3;
@@ -130,7 +73,7 @@ div.footer {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: #0f0f0f;
+    background-color: rgba(0, 0, 0, 0.5);
     color: #d3d3d3;
     text-align: center;
 }
