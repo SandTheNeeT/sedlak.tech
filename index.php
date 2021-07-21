@@ -25,7 +25,7 @@
     <body>
 
         <!-- HEADER -->
-        <div class="nav">
+        <!--div class="nav">
             <div class="navl">
                 <p class="navl">SandTheNeeT_</p>
             </div>
@@ -40,7 +40,7 @@
                     </tr>
                 </table>
             </div>
-        </div>
+        </div-->
 
         <!-- MAIN CONTENT -->
         <div class="mainContent" data-fade="true">
