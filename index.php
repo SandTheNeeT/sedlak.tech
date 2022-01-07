@@ -29,12 +29,12 @@
 
         <div class="textbody">
             <div class="text">
-                <p class="nazev">SandTheNeeT_</p>
-                <p class="nadpis">Welcome to my page!</p>&nbsp;<br>
+                <p class="nazev">Petr Sedlák</p>
+                <p class="nadpis">Vítej na mé stránce!</p>&nbsp;<br>
                 <p class="obsah">
-                    Hey there, my name is SandTheNeeT_<br>
-                    I'm from Czech Republic. I like playing games, listening to music, and much much more.<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>
-                    I'm currently staff and tech leader at one of the largest <br> czechoslovak Minecrafr servers <a href="https://warfaremc.eu" target="_blank">WarfareMC.eu</a><br>&nbsp;<br>&nbsp;<br>
+                    Zdravím tě, moje jméno je Petr Sedlák, ale ve světě her si říkám SandTheNeeT_<br>
+                    Pocházím z prdele světa jménem Česká republika. Mám rád hraní počítačových her, rád poslouchám hudbu, a mnohem více.<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>
+                    Pokud se o mě chceš dozvědět něco více, navštiv jednu z podstránek níže.<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>
                         <a href="https://wrfmc.eu/discord" target="_blank">Discord</a> |
                         <a href="https://github.com/SandTheNeeT" target="_blank">GitHub</a> |
                         <a href="https://www.youtube.com/channel/UCrTGyqv9XfeGEtEZy7DGRSQ" target="_blank">YouTube</a> |
@@ -50,7 +50,7 @@
 
         <!-- FOOTER -->
         <div class="footer">
-            <p class="footertext">Copyright &copy; <?php echo date("Y"); ?> &nbsp;|&nbsp; Coded with &hearts; by <!--a class="link" href="https://allmylinks.com/novakpetr2002" target="_blank"-->SandTheNeeT_<!--/a--> &nbsp;|&nbsp; Source code is available on <a class="link" href="https://github.com/SandTheNeeT/SndCrwWeb" target="_blank">GitHub</a></p>
+            <p class="footertext">Copyright &copy; <?php echo date("Y"); ?> &nbsp;|&nbsp; Coded with &hearts; by <!--a class="link" href="contact.php" target="_blank"-->SandTheNeeT_<!--/a--> &nbsp;|&nbsp; Source code is available on <a class="link" href="https://github.com/SandTheNeeT/sedlak.tech" target="_blank">GitHub</a></p>
         </div>
     </body>
 
