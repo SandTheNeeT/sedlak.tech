@@ -1,7 +1,7 @@
 # IKT WEB PROJEKT
 Termín: 10. 1 2022
 Požadavky:
-- [ ] Minimálně 3 propojené stránky
+- [X] Minimálně 3 propojené stránky
 - [X] Nadpis
 - [X] Pozadí
 - [ ] Obrázky

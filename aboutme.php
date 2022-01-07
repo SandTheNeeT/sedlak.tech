@@ -17,7 +17,7 @@
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
         <script src="lib/js/wakenbake.js"></script>
 
-        <title>HOME | PETR SEDLÁK</title>
+        <title>O MĚ | PETR SEDLÁK</title>
     </head>
 
     <body>
@@ -27,27 +27,23 @@
 
         <div class="textbody">
             <div class="text" data-fade="true">
-                <p class="nazev">Petr Sedlák</p>
-                <p class="nadpis">Vítej na mé stránce!</p>&nbsp;<br>
+                <p class="nazev">Něco málo o mě</p>
+                <p class="nadpis">Pár informací ze života i z praxe</p>&nbsp;<br>
                 <p class="obsah">
-                    Zdravím tě, moje jméno je Petr Sedlák, ale ve světě her si říkám SandTheNeeT_<br>
-                    Pocházím z prdele světa jménem Česká republika. Mám rád hraní počítačových her, rád poslouchám hudbu, a mnohem více.<br>
+                    Zdravíčko tedy. Jmenuju se Petr, je mi 20 let a bydlím na střední moravě kousek od Olomouce.<br>
+                    Přes týden jsem ubytovaný na jednom Brněnském internátu, kde zároveň studuji obor Mechanik IT.<br>
+                    Od roku 2016 se zajímám o herní servery, primárně tedy Minecraft. V té době jsem tomu ještě moc<br>
+                    nerozuměl. V ten samý rok jsem také začal experimentovat se servery VPS.<br>
+                    To mi otevřelo spoustu možností a experimentováním se servery jsem se dostal tam, kde teď jsem.<br>
+                    Byl jsem členem několika minecraftích projektů, dnes všechny zkrachované až na jeden, jehož tým<br>
+                    jsem opustil teprve nedávno. Jedná se o projetk jednoho z největších CZ/SK Minecraft Java serverů.<br>
+                    Na projektu jsem strávil přes 2 roky a nabral ohromných zkušeností ohledně správy systému linux severů.<br>
+                    Údržba a správa VPS, a software na těchto serverech, jejich zabezpečení a bezproblémový chod.<br>
+                    Ovládám jazyky: HTML, CSS, lehce Lua, PHP a JS. Umím číst, ale neumím tvořit v: Java, Python.<br>
                     &nbsp;<br>
                     &nbsp;<br>
                     &nbsp;<br>
-                    Pokud se o mě chceš dozvědět něco více, navštiv jednu z podstránek níže.<br>
-                    &nbsp;<br>
-                    &nbsp;<br>
-                    &nbsp;<br>
-                    | <a href="contact.php"><i class="fa-regular fa-address-card"></i></i> Kontakt</a> |
-                    <a href="aboutme.php"><i class="fa-solid fa-user"></i> O mě</a> |
-                    <a href="services.php"><i class="fa-solid fa-list-check"></i> Služby</a> |
-                    <a href="gallery.php"><i class="fa-regular fa-image"></i> Galerie</a> |
-                    <a href="ikt.php"><i class="fa-solid fa-laptop-code"></i> IKT Stuff</a> |<br>
-                    &nbsp;<br>
-                    &nbsp;<br>
-                    &nbsp;<br>
-                    <!--a href="#" target="_blank"--><i class="fa-solid fa-bread-slice"></i> Náboženství chleba<!--/a-->
+                    <a href="/"><i class="fa-solid fa-house"></i> Zpět domů</a>
                 </p>
             </div>
         </div>

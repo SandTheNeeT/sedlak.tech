@@ -17,7 +17,7 @@
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
         <script src="lib/js/wakenbake.js"></script>
 
-        <title>HOME | PETR SEDLÁK</title>
+        <title>KONTAKT | PETR SEDLÁK</title>
     </head>
 
     <body>
@@ -27,27 +27,32 @@
 
         <div class="textbody">
             <div class="text" data-fade="true">
-                <p class="nazev">Petr Sedlák</p>
-                <p class="nadpis">Vítej na mé stránce!</p>&nbsp;<br>
+                <p class="nazev">Kontakty</p>
+                <p class="nadpis">Všechny možné moje odkazy!</p>
+                &nbsp;<br>
                 <p class="obsah">
-                    Zdravím tě, moje jméno je Petr Sedlák, ale ve světě her si říkám SandTheNeeT_<br>
-                    Pocházím z prdele světa jménem Česká republika. Mám rád hraní počítačových her, rád poslouchám hudbu, a mnohem více.<br>
+                    Zde najdeš všechny možné moje odkazy na sociální sítě nebo prostě jenom způsoby, jak se se mnou spojit.<br>
+                    Bývalo tu toho více, jenom jsem některé věci přehodnotil a smazal je.<br>
+                    Většinou to byly projekty, kterých už nejsem součástí.<br>
                     &nbsp;<br>
                     &nbsp;<br>
                     &nbsp;<br>
-                    Pokud se o mě chceš dozvědět něco více, navštiv jednu z podstránek níže.<br>
                     &nbsp;<br>
                     &nbsp;<br>
                     &nbsp;<br>
-                    | <a href="contact.php"><i class="fa-regular fa-address-card"></i></i> Kontakt</a> |
-                    <a href="aboutme.php"><i class="fa-solid fa-user"></i> O mě</a> |
-                    <a href="services.php"><i class="fa-solid fa-list-check"></i> Služby</a> |
-                    <a href="gallery.php"><i class="fa-regular fa-image"></i> Galerie</a> |
-                    <a href="ikt.php"><i class="fa-solid fa-laptop-code"></i> IKT Stuff</a> |<br>
+                    | 
+                    <a href="https://github.com/SandTheNeeT" target="_blank"><i class="fa-brands fa-github"></i> GitHub</a> |
+                    <a href="https://www.youtube.com/channel/UCrTGyqv9XfeGEtEZy7DGRSQ" target="_blank"><i class="fa-brands fa-youtube"></i> YouTube</a> |
+                    <a href="https://www.twitch.tv/sandtheneet" target="_blank"><i class="fa-brands fa-twitch"></i> Twitch</a> |
+                    <a href="https://osu.ppy.sh/users/11742143Osu!" target="_blank"><i class="fa-regular fa-circle"></i> Osu!</a> |
+                    <a href="https://namemc.com/profile/SandTheNeeT_.1" target="_blank"><i class="fa-solid fa-cube"></i> NameMC</a> |
+                    <a href="https://www.instagram.com/sandtheneet_/" target="_blank"><i class="fa-brands fa-instagram"></i> Instagram</a> |
+                    <a href="https://twitter.com/SandTheNeeT_" target="_blank"><i class="fa-brands fa-twitter"></i> Twitter</a> |
+                    <a href="mailto:petr@sedlak.tech"><i class="fa-solid fa-at"></i> E-Mail</a> |<br>
                     &nbsp;<br>
                     &nbsp;<br>
                     &nbsp;<br>
-                    <!--a href="#" target="_blank"--><i class="fa-solid fa-bread-slice"></i> Náboženství chleba<!--/a-->
+                    <a href="/"><i class="fa-solid fa-house"></i> Zpět domů</a>
                 </p>
             </div>
         </div>

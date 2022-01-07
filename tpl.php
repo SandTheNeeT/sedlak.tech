@@ -17,7 +17,7 @@
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
         <script src="lib/js/wakenbake.js"></script>
 
-        <title>HOME | PETR SEDLÁK</title>
+        <title>PETR SEDLÁK</title>
     </head>
 
     <body>
@@ -28,26 +28,22 @@
         <div class="textbody">
             <div class="text" data-fade="true">
                 <p class="nazev">Petr Sedlák</p>
-                <p class="nadpis">Vítej na mé stránce!</p>&nbsp;<br>
+                <p class="nadpis">Prázdná stránka!</p>&nbsp;<br>
                 <p class="obsah">
-                    Zdravím tě, moje jméno je Petr Sedlák, ale ve světě her si říkám SandTheNeeT_<br>
-                    Pocházím z prdele světa jménem Česká republika. Mám rád hraní počítačových her, rád poslouchám hudbu, a mnohem více.<br>
                     &nbsp;<br>
                     &nbsp;<br>
                     &nbsp;<br>
-                    Pokud se o mě chceš dozvědět něco více, navštiv jednu z podstránek níže.<br>
                     &nbsp;<br>
                     &nbsp;<br>
                     &nbsp;<br>
-                    | <a href="contact.php"><i class="fa-regular fa-address-card"></i></i> Kontakt</a> |
-                    <a href="aboutme.php"><i class="fa-solid fa-user"></i> O mě</a> |
-                    <a href="services.php"><i class="fa-solid fa-list-check"></i> Služby</a> |
-                    <a href="gallery.php"><i class="fa-regular fa-image"></i> Galerie</a> |
-                    <a href="ikt.php"><i class="fa-solid fa-laptop-code"></i> IKT Stuff</a> |<br>
                     &nbsp;<br>
                     &nbsp;<br>
                     &nbsp;<br>
-                    <!--a href="#" target="_blank"--><i class="fa-solid fa-bread-slice"></i> Náboženství chleba<!--/a-->
+                    &nbsp;<br>
+                    &nbsp;<br>
+                    &nbsp;<br>
+                    &nbsp;<br>
+                    <a href="/"><i class="fa-solid fa-house"></i> Zpět domů</a>
                 </p>
             </div>
         </div>
