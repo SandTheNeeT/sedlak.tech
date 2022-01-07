@@ -1,3 +1,3 @@
-## SndCrw Web
+## sedlak.tech
 
-Landing page of gaming community sndcrw.cz
+Moje osobní stránka, portfolio, profil, říkejte si tomu jak kdo chcete.
