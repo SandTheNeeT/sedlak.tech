@@ -2,16 +2,16 @@
 Termín: 10. 1 2022
 Požadavky:
 - [ ] Minimálně 3 propojené stránky
-- [ ] Nadpis
-- [ ] Pozadí
+- [X] Nadpis
+- [X] Pozadí
 - [ ] Obrázky
 - [ ] Odrážky
 - [ ] Číslování
 - [ ] Tabulka
-- [ ] Odkaz na cizí stránky
-- [ ] Použití CSS
-- [ ] Externí soubor
-- [ ] Prvek z JS/PHP
+- [X] Odkaz na cizí stránky
+- [X] Použití CSS
+- [X] Externí soubor
+- [X] Prvek z JS/PHP
 - [ ] Formulář doplnění textu
 - [ ] Zaškrtávací políčko
 - [ ] Přepínač
