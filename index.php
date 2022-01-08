@@ -42,7 +42,6 @@
                     | <a href="contact.php"><i class="fa-regular fa-address-card"></i></i> Kontakt</a> |
                     <a href="aboutme.php"><i class="fa-solid fa-user"></i> O mě</a> |
                     <a href="services.php"><i class="fa-solid fa-list-check"></i> Služby</a> |
-                    <a href="gallery.php"><i class="fa-regular fa-image"></i> Galerie</a> |
                     <a href="ikt.php"><i class="fa-solid fa-laptop-code"></i> IKT Stuff</a> |<br>
                     &nbsp;<br>
                     &nbsp;<br>
