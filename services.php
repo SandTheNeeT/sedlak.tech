@@ -33,7 +33,7 @@
                     V momentální životní situaci nejsem schopen se ujmout větších projektů nebo pozic.<br>
                     Momentálně nenabízím žádné moje služby k dispozici z časových důvodů.<br>
                     &nbsp;<br>
-                    Pokud máš zájem o nějakou z mých služeb, kontaktuj mě na <a href="mailto:petr@sedlak.tech">petr@sedlak.tech</a><br>
+                    Pokud máš zájem o nějakou z mých služeb, kontaktuj mě na <a class="link" href="mailto:petr@sedlak.tech">petr@sedlak.tech</a><br>
                     &nbsp;<br>
                     &nbsp;<br>
                     &nbsp;<br>

@@ -44,7 +44,7 @@
                     <a href="https://github.com/SandTheNeeT" target="_blank"><i class="fa-brands fa-github"></i> GitHub</a> |
                     <a href="https://www.youtube.com/channel/UCrTGyqv9XfeGEtEZy7DGRSQ" target="_blank"><i class="fa-brands fa-youtube"></i> YouTube</a> |
                     <a href="https://www.twitch.tv/sandtheneet" target="_blank"><i class="fa-brands fa-twitch"></i> Twitch</a> |
-                    <a href="https://osu.ppy.sh/users/11742143Osu!" target="_blank"><i class="fa-regular fa-circle"></i> Osu!</a> |
+                    <a href="https://osu.ppy.sh/users/11742143" target="_blank"><i class="fa-regular fa-circle"></i> Osu!</a> |
                     <a href="https://namemc.com/profile/SandTheNeeT_.1" target="_blank"><i class="fa-solid fa-cube"></i> NameMC</a> |
                     <a href="https://www.instagram.com/sandtheneet_/" target="_blank"><i class="fa-brands fa-instagram"></i> Instagram</a> |
                     <a href="https://twitter.com/SandTheNeeT_" target="_blank"><i class="fa-brands fa-twitter"></i> Twitter</a> |
