@@ -14,5 +14,5 @@ Požadavky:
 - [X] Prvek z JS/PHP
 - [X] Formulář doplnění textu
 - [X] Zaškrtávací políčko
-- [ ] Přepínač
+- [X] Přepínač
 - [X] Tlačítko

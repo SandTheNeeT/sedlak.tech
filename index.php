@@ -46,7 +46,7 @@
                     &nbsp;<br>
                     &nbsp;<br>
                     &nbsp;<br>
-                    <!--a href="#" target="_blank"--><i class="fa-solid fa-bread-slice"></i> Náboženství chleba<!--/a-->
+                    <a class="link" href="http://jednotnacirkevpravoslavnychchlebitanu.4fan.cz/" target="_blank"><i class="fa-solid fa-bread-slice"></i> Náboženství chleba</a>
                 </p>
             </div>
         </div>
