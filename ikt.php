@@ -31,10 +31,8 @@
             <div class="ikt">
                 <div style="text-align: center;">
                     <p class="obsah"><i class="fa-solid fa-triangle-exclamation"></i> Tato stránka slouží jako dočasná pro účely projektu do IKT. Bude později smazána. <i class="fa-solid fa-triangle-exclamation"></i></a></p>
-                    <img src="https://pbs.twimg.com/media/DylbMZpU0AATRgZ?format=jpg&name=large" height="250px" style="margin: 30px;"><br>
-                    <p class="obsah"><i class="fa-solid fa-arrow-up"></i> Obrázek a externí soubor zároveň <i class="fa-solid fa-arrow-up"></i></p><br>
+                    <img src="https://pbs.twimg.com/media/DylbMZpU0AATRgZ?format=jpg&name=large" height="150px" style="margin-bottom: 10px;"><br>
                 </div>
-
                 <div class="wrapper">
                 <div class="sloupec">
                     <h2 class="ikttext">Odrážky:</h2>

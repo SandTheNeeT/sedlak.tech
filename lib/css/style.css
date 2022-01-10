@@ -32,9 +32,9 @@ div.textbody {
 
 p.nazev {
     font-family: TorusSemiBold;
-    font-size: 150px;
+    font-size: 100px;
     color: #d3d3d3;
-    margin: 100px;
+    margin: 0px;
     text-align: center;
 }
 
